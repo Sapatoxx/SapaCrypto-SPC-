@@ -6,3 +6,4 @@ contract CryptoRea is ERC20{
         _mint(msg.sender, 1000*1e18);
     }
 }
+
